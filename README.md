@@ -10,7 +10,7 @@ Edaplayground Link : https://www.edaplayground.com/x/GaSF
 
 FIFO Verification Architecture 
 
- ![FIFO TB ARCHITECTURE](assets/FIFO TB ARCHITECTURE.png) <img width="720" height="941" alt="image" src="https://github.com/user-attachments/assets/4b410b7e-fadb-4666-ae9e-7f07235c5cdd" />
+<img width="720" height="941" alt="image" src="https://github.com/user-attachments/assets/4b410b7e-fadb-4666-ae9e-7f07235c5cdd" />
 
 
 
