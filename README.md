@@ -1,4 +1,4 @@
-# FIFO-UVM-Testbench-Reactive-Stimulus
+# FIFO UVM Testbench Reactive Stimulus
 UVM TestBench For Verification Of Synchronous FIFO With Reactive Stimulus
 
 FIFO Depth is 16, and supports almost empty and almost full condition.
